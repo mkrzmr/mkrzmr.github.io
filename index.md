@@ -17,7 +17,7 @@
   - [Critical Digital Skills (MD191) lab](https://2020.moodle.maynoothuniversity.ie/course/view.php?id=3002)
   
 - var
-  - [contact](/about/contact/md)
+  - [contact](/about/contact.md)
   - about
 
 ## Welcome to my site.
