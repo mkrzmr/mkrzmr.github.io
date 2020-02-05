@@ -1,3 +1,3 @@
 ..:: Under Construction ::..
 
-[contact](/about/contact.html)
+[contact](/about)
