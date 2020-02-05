@@ -12,7 +12,7 @@
 - Projects
   - [Contemporary Music Centre Digitzation Project](/uni/y2/cmcproejct.md)
   
- - Teaching
+- Teaching
   - Critical Digital Skills (MD190) lab
   - [Critical Digital Skills (MD191) lab](https://2020.moodle.maynoothuniversity.ie/course/view.php?id=3002)
   
