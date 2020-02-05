@@ -5,6 +5,8 @@ Social Media:
 
 [Twitter](https://twitter.com/mkrzmr)
 
+[Linkedin](https://www.linkedin.com/in/mkurzmeier/)
+
 [Diaspora](https://diaspora.schoenf.de/people/d0db7ba01a3701368e10543d7ebdface)
 
 [Mastodon](https://makerdon.org/@mkrzmr)
