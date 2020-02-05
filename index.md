@@ -2,10 +2,10 @@
   - Y_1
   - Y_2
   - Y_3
- - Projects
+- Projects
   - P1
   - P2
- - var
+- var
   - contact
   - about
 
