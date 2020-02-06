@@ -20,7 +20,7 @@
   
 - var
   - [contact](/about/contact.md)
-  - about (no line here yet)
+  - about
 
 ## Welcome to my site.
 
