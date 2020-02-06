@@ -1,12 +1,12 @@
 *Posted on 15th October 2018 by mjkurzmeier*
 ## Contemporary Music Centre Digitization Project
 
-![Archive](/img/cmc_archive.png) 
+![Archive](/img/cmc_archive2.jpg) 
 
 The Contemporary Music Centre (CMC) is Ireland’s repository for new music. Its collection holds over 9000 works by over 220 Irish composers. Many of these works are unpublished single copies or original manuscripts. CMC started digitizing its collection in 2008 and currently has about 60% of the material available as digital copies. You should see their own website for a better description of their digitization efforts, of which my work was a small part of. When I read the call for proposals CMC had send out to our department looking for applicants to help with their digitization project, I had some translation work to do. Coming from university projects with their academic and theoretical background where the ratio between learning and getting stuff done is about 50:50 to a professional engagement with a fixed deadline and way smaller margin for errors, it required some adjustment. The agreement between the CMC and the digitization team was on about 220 items (musical scores and ephemera) within a period of approximately 7 weeks. Helping me with all things musical was Dr. Anja Bunzel who has written an excellent blog post about the musical side of this project. Equipment was going to be provided by the CMC and the work carried out on site. We agreed on a workflow that would allow for batch processing and feedback on quality before moving on to the next batch.
 Workflow
 
-![Workflow](/img/cmc_workflow.png)
+![Workflow](/img/cmc_proposal.png)
 
 This was the workflow I proposed to the CMC. The workflow was focussed on multiple backups of every file to reduce the number of re-scans necessary. This worked well, with very few scores having to go on the scanner more than once. Another focus was batch processing, usually in batches of 15 scores. Through this, issues could be identified early on and also CMC archivists could give feedback on quality during digitization.
 
