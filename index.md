@@ -16,6 +16,8 @@
   - Critical Digital Skills (MD190) lab
   - [Critical Digital Skills (MD191) lab](https://2020.moodle.maynoothuniversity.ie/course/view.php?id=3002)
   
+- [Publications](/about/publications.md)  
+  
 - var
   - [contact](/about/contact.md)
   - about
