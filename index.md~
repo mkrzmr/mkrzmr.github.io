@@ -22,7 +22,7 @@
 - var
   - [contact](/about/contact.md)
   - about
-  - [Licence information](/about/licence.md)
+  - [Licence information](/about/licenceinfo.md)
 
 ## Welcome to my site.
 
