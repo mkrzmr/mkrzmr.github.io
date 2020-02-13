@@ -4,3 +4,6 @@
 
 ** 06/02/2020 **
 Start importing blog entries
+
+### 13/02/2020
+The first round of scoping material is well underway. From what I can say now, about 3% of the total material is in scope. Looking at a dataset of approx. 15000 pages at the moment, this means about 450 defaced web sites to be in scope. This is a consequence of the initial inverse (from old to new) crawl. As defacements are usually submitted in bulks, there are always huge chucks of non-qualifying defacements found. To meet with supervisor to discuss a more focused approach. 
