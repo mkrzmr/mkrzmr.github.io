@@ -10,7 +10,7 @@
     - [Engaging with Web Archives Conference 2020 Information](/uni/y3/EWA20.md)
     
 - Projects
-  - [Contemporary Music Centre Digitzation Project](/uni/y2/cmcproejct.md)
+  - [Contemporary Music Centre Digitzation Project](/uni/y2/cmcproject.md)
   
 - Teaching
   - Critical Digital Skills (MD190) lab
