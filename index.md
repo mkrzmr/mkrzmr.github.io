@@ -30,7 +30,7 @@ I am a third-year PhD student at the Centre for Digital Humanities at Maynooth U
 
 ### Registration for EWA20 ~~is now open~~ Has been postponed to early October. [Click here to purchase tickets for conference and workshop](https://ewaconference.com/conference-details/registration/)
 
-<<<<<<< HEAD
+
 ### I will be presenting a paper on my research at the IIPC annual event in Montreal titled ** Website Defacements: Finding Hacktivism in Web Archives ** [See the draft programme here](http://netpreserve.org/ga2020/wac/) ALSO POSTPONED until September!
 =======
 ### I will be presenting a paper on my research at the IIPC annual event in Montreal titled **Website Defacements: Finding Hacktivism in Web Archives** [See the draft programme here](http://netpreserve.org/ga2020/wac/)
