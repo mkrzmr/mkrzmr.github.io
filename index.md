@@ -32,8 +32,7 @@ I am a third-year PhD student at the Centre for Digital Humanities at Maynooth U
 
 
 ### I will be presenting a paper on my research at the IIPC annual event in Montreal titled ** Website Defacements: Finding Hacktivism in Web Archives ** [See the draft programme here](http://netpreserve.org/ga2020/wac/) ALSO POSTPONED until September!
-=======
-### I will be presenting a paper on my research at the IIPC annual event in Montreal titled **Website Defacements: Finding Hacktivism in Web Archives** [See the draft programme here](http://netpreserve.org/ga2020/wac/)
+
 
 
 This simple page is the continuation of a blog I started in 2017. A few blog entries have been carried over. It will be continuously expanded to reflect my teaching and learning.
