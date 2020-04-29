@@ -4,7 +4,7 @@
 2018: “Preservation, reconstruction and usage of web community data”, New Perspectives Postgraduate Symposium for the Humanities, Maynooth
 		"One Team, many Authors – Types and Translations of Authorship", Student Librarian and Information Professionals Conference, Dublin [Click here to see my slides](https://mkrzmr.com/SLIP19/Kurzmeier_Pres_SLIP19.pdf) 
 
-2019: “Taking to the Digital Streets: A case study of hacktivism on the early web.” RESAW 19, The Web that Was: Archives, Traces, Reflections, University of Amsterdam, the Netherlands, June 19-21, 2019. [Click here to see my slides](https://mkrzmr.com/home/resaw_pres/index.html) 
+2019: “Taking to the Digital Streets: A case study of hacktivism on the early web.” RESAW 19, The Web that Was: Archives, Traces, Reflections, University of Amsterdam, the Netherlands, June 19-21, 2019. [Click here to see my slides](https://mkrzmr.com/resaw_pres/index.html) 
 
 ## Chapters:
 
