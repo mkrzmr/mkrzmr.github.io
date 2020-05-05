@@ -16,7 +16,7 @@ I have moved the whole structure to an SQL database. This allows my data to be a
 
 Currently the scraping goes on because I want to capture defacements around 9/11. About 12.000 pages captured so far with approx. 400 relevant defacements.
 
-## 29/04/2020
+## 15/04/2020
    “There are decades where nothing happens; and there are weeks where decades happen.” 
    
 Currently very happy to have a load of desk work to do for the analysis. 
