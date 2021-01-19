@@ -27,3 +27,13 @@ This has worked well and cleared the chunks of invalid pages without loosing too
 I have written the first draft of my first case study of defacements submitted in the context of the Kashmir conflict. The chapter draws upon quantitative data from the scraping process as well as qualitative, emblematic defacements. 
 
 There was little context mentioning WikiLeaks, while I initially expected there to be much more. I wrote a chapter about it, trying to place a cybercrime archive like Zone-H in relation to WikiLeaks and find hints for the strange distance they kept.
+
+## 19/01/2021
+A long overdue update. Status so far:
+ Case Study 1 - Pending feedback
+ Case Study 2 - Reviewed and ready
+ Case Study 3 - Pending final review
+ Wikileaks chapter - Pending final review
+ 
+Additionally, I developed a graphical user interface version of the crawler. I am afraid it is less useful than the command-line based version because it is less flexible but I hope it makes my work a bit more accessible. 
+
