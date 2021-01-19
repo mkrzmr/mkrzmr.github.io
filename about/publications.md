@@ -8,4 +8,4 @@
 
 ## Chapters:
 
-“Towards a concept for archiving of hacked websites”, New Perspectives Reflections, Maynooth [forthcoming 2020]
+“Towards a concept for archiving of hacked websites”, New Perspectives Reflections, Maynooth [Available now](http://mural.maynoothuniversity.ie/13352/)
