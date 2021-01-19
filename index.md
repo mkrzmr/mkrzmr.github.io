@@ -11,8 +11,8 @@
     
 - Projects
   - [Contemporary Music Centre Digitization Project](/uni/y2/cmcproject.md)
-  - Dariah Community Engagement Work Group https://dariahre.hypotheses.org/
-  - WarcNet member, WG3 Digital Methods Chair https://cc.au.dk/en/warcnet/
+  - [Dariah Community Engagement Work Group] (https://dariahre.hypotheses.org/)
+  - [WarcNet member, WG3 Digital Methods Chair] (https://cc.au.dk/en/warcnet/)
   
 - Teaching
   - Critical Digital Skills (MD190) lab
