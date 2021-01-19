@@ -6,6 +6,8 @@
 
 2019: “Taking to the Digital Streets: A case study of hacktivism on the early web.” RESAW 19, The Web that Was: Archives, Traces, Reflections, University of Amsterdam, the Netherlands, June 19-21, 2019. [Click here to see my slides](https://mkrzmr.com/resaw_pres/index.html) 
 
+2020: "Web defacements and takeovers and their role in web archiving" EWA20, Engaging with Web Archives Conference. Maynooth, Ireland [Video available](https://youtu.be/RtVJzfv7NhY)
+
 ## Chapters:
 
 “Towards a concept for archiving of hacked websites”, New Perspectives Reflections, Maynooth [Available now](http://mural.maynoothuniversity.ie/13352/)
