@@ -11,10 +11,13 @@
     
 - Projects
   - [Contemporary Music Centre Digitization Project](/uni/y2/cmcproject.md)
+  - Dariah Community Engagement Work Group https://dariahre.hypotheses.org/
+  - WarcNet member, WG3 Digital Methods Chair https://cc.au.dk/en/warcnet/
   
 - Teaching
   - Critical Digital Skills (MD190) lab
   - [Critical Digital Skills (MD191) lab](https://2020.moodle.maynoothuniversity.ie/course/view.php?id=3002)
+  - Digital Literacy: Understanding Technology and Digital Rights [Summer 2021]
   
 - [Publications](/about/publications.md)
 - [Research Blog](/research/blog.md)  
@@ -26,13 +29,13 @@
 
 ## Welcome to my site.
 
-I am a third-year PhD student at the Centre for Digital Humanities at Maynooth University. My research interest is hacktivism as a tool in political communication. My thesis investigates political web defacements as a method of contesting online space. I am a recipient of the Irish Research Council Postgraduate Scholarship.
+I am a fourth-year PhD student at the Centre for Digital Humanities at Maynooth University. My research interest is hacktivism as a tool in political communication. My thesis investigates political web defacements as a method of contesting online space. I am a recipient of the Irish Research Council Postgraduate Scholarship.
 
-### Registration for EWA20 ~~is now open~~ Has been postponed to early October. [Click here to purchase tickets for conference and workshop](https://ewaconference.com/conference-details/registration/)
+### Engaging with Web Archives [EWA] is the first Irish Web Archiving Conference. Most papers are available here: https://ewaconference.com/
 
 
 =======
-### I will be presenting a paper on my research at the IIPC annual event in Montreal titled ** Website Defacements: Finding Hacktivism in Web Archives ** [See the draft programme here](http://netpreserve.org/ga2020/wac/) CANCELLED
+### I have started to compile a reading list of essentials works around the effects of digital communication.
 
 
 
